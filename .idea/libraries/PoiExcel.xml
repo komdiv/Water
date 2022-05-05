@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PoiExcel">
+    <CLASSES>
+      <root url="file://D:/ProgramFiles/Java/FromInet/PoiExcel" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/ProgramFiles/Java/FromInet/PoiExcel/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://D:/ProgramFiles/Java/FromInet/PoiExcel" recursive="false" />
+  </library>
+</component>
